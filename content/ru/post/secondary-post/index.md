@@ -1,9 +1,9 @@
 ---
 title: Hello this is second post on my web site 
-subtitle: Second post 
+subtitle: Второй пост 
 
 # Summary for listings and search engines
-summary: Second post
+summary: Второй пост
 
 # Link this post with a project
 projects: []
@@ -37,14 +37,14 @@ tags:
 - Sleap
 
 categories:
-- Post
-- Fun
+- Пост
+- Веселье
 ---
 
-## Overview
+## Обзор
 
-1. YOU don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly—Tom's Aunt Polly, she is—and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before.
-2. Now the way that the book winds up is this: Tom and me found the money that the robbers hid in the cave, and it made us rich. We got six thousand dollars apiece—all gold. It was an awful sight of money when it was piled up. Well, Judge Thatcher he took it and put it out at interest, and it fetched us a dollar a day apiece all the year round—more than a body could tell what to do with.
-3. The Widow Douglas she took me for her son, and allowed she would sivilize me; but it was rough living in the house all the time, considering how dismal regular and decent the widow was in all her ways; and so when I couldn't stand it no longer I lit out. I got into my old rags and my sugar-hogshead again, and was free and satisfied. But Tom Sawyer he hunted me up and said he was going to start a band of robbers, and I might join if I would go back to the widow and be respectable. So I went back.
+1. Вы не знаете обо мне, если не читали книгу под названием "Приключения Тома Сойера", но это не имеет значения. Эта книга была написана мистером Марком Твеном, и он в основном говорил правду. Были вещи, которые он растягивал, но в основном он говорил правду. Это ничего не значит. Я никогда не видел никого, кто бы не лгал время от времени, без того, чтобы это была тетя Полли, или вдова, или, может быть, Мэри. Тетя Полли — тетя Тома Полли, она — и Мэри, и вдова Дуглас - все это рассказано в этой книге, которая в основном правдивая книга, с некоторыми подрамниками, как я уже говорил ранее.
+2. Теперь книга заканчивается так: мы с Томом нашли деньги, которые грабители спрятали в пещере, и это сделало нас богатыми. Мы получили по шесть тысяч долларов за штуку — все золотом. Это было ужасное зрелище денег, когда они были сложены в кучу. Ну, судья Тэтчер взял его и выставил под проценты, и он приносил нам по доллару в день за штуку круглый год — больше, чем кто-либо мог сказать, что с ним делать.
+3. Вдова Дуглас, она приняла меня за своего сына и разрешила ей воспитывать меня; но все время жить в доме было тяжело, учитывая, насколько унылой и порядочной была вдова во всех отношениях; и поэтому, когда я больше не мог этого выносить, я ушел. Я снова влез в свои старые лохмотья и свою сахарную бочку и был свободен и доволен. Но Том Сойер выследил меня и сказал, что собирается создать банду грабителей, и я мог бы присоединиться, если бы вернулся к вдове и был респектабельным. Поэтому я вернулся.
 
-4. The widow she cried over me, and called me a poor lost lamb, and she called me a lot of other names, too, but she never meant no harm by it. She put me in them new clothes again, and I couldn't do nothing but sweat and sweat, and feel all cramped up. Well, then, the old thing commenced again. The widow rung a bell for supper, and you had to come to time. When you got to the table you couldn't go right to eating, but you had to wait for the widow to tuck down her head and grumble a little over the victuals, though there warn't really anything the matter with them,—that is, nothing only everything was cooked by itself. In a barrel of odds and ends it is different; things get mixed up, and the juice kind of swaps around, and the things go better.
+4. Вдова плакала надо мной и называла меня бедной заблудшей овечкой, и она называла меня еще многими другими именами, но она никогда не хотела этим ничего плохого. Она снова одела меня в ту новую одежду, и я ничего не мог делать, кроме как потеть и потеть, и чувствовать себя скованным. Ну, а потом все началось по-старому. Вдова позвонила в колокольчик к ужину, и тебе пришлось прийти вовремя. Когда вы садились за стол, вы не могли сразу приступить к еде, но вам приходилось ждать, пока вдова опустит голову и немного поворчит над едой, хотя на самом деле с ними ничего не случилось, — то есть ничего, только все было приготовлено само по себе. В бочке всякой всячины все по-другому; все смешивается, и сок как бы меняется местами, и дела идут лучше.
