@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 10%
   icon: csharp
-  icon_pack: custom
+  icon_pack: fas
   name: С#
 - description: 50%
   icon: chart-line
